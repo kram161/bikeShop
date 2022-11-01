@@ -40,6 +40,7 @@ p{
     border-radius: 16px;
     cursor: pointer;
     transition: all 0.5s ease;
+    text-align: center;
 }
 
 .button:hover{
@@ -88,6 +89,7 @@ p{
     cursor: pointer;
     margin: auto 0;
     transition: all 0.5s ease;
+    text-align: center;
 }
 
 .transparent-button:hover{
@@ -158,5 +160,9 @@ p{
 
     .input-text {
         font-size: 14px;
+    }
+
+    .product-button{
+        padding: 22px 20px;
     }
 }
